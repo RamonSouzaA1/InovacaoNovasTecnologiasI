@@ -1,0 +1,8 @@
+e:\aluno\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe.config
+e:\aluno\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe
+e:\aluno\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.pdb
+e:\aluno\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.exe
+e:\aluno\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.pdb
+E:\Aluno\Desktop\kaio\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe.config
+E:\Aluno\Desktop\kaio\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.exe
+E:\Aluno\Desktop\kaio\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.pdb

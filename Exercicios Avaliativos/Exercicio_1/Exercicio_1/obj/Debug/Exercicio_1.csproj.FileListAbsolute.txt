@@ -1,0 +1,2 @@
+E:\Aluno\Desktop\kaio\Exercicios Avaliativos\Exercicio_1\Exercicio_1\bin\Debug\Exercicio_1.exe.config
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_1\Exercicio_1\obj\Debug\Exercicio_1.csprojResolveAssemblyReference.cache

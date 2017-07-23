@@ -1,0 +1,6 @@
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\bin\Debug\PilhaGenerica.exe.config
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\bin\Debug\PilhaGenerica.exe
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\bin\Debug\PilhaGenerica.pdb
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\obj\Debug\PilhaGenerica.csprojResolveAssemblyReference.cache
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\obj\Debug\PilhaGenerica.exe
+e:\aluno\documents\visual studio 2015\Projects\PilhaGenerica\PilhaGenerica\obj\Debug\PilhaGenerica.pdb

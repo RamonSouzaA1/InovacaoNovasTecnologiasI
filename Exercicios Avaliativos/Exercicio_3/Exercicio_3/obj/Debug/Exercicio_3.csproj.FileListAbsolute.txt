@@ -1,0 +1,13 @@
+E:\Aluno\Desktop\kaio\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.pdb
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csprojResolveAssemblyReference.cache
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.exe
+D:\Programação\C#\Faculdade\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.pdb
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.exe
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\bin\Debug\Exercicio_3.pdb
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.exe
+C:\Users\Ramon\Desktop\Topicos\Avaliativos\Exercicios Avaliativos\Exercicio_3\Exercicio_3\obj\Debug\Exercicio_3.pdb
